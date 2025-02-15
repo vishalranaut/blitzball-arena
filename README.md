@@ -122,61 +122,8 @@
 			</table>
 		</blockquote>
 	</details>
-	<details> <!-- .github Submodule -->
-		<summary><b>.github</b></summary>
-		<blockquote>
-			<details>
-				<summary><b>workflows</b></summary>
-				<blockquote>
-					<table>
-					<tr>
-						<td><b><a href='https://github.com/vishalranaut/blitzball-arena/blob/master/.github/workflows/firebase-hosting-merge.yml'>firebase-hosting-merge.yml</a></b></td>
-						<td><code>❯ REPLACE-ME</code></td>
-					</tr>
-					<tr>
-						<td><b><a href='https://github.com/vishalranaut/blitzball-arena/blob/master/.github/workflows/firebase-hosting-pull-request.yml'>firebase-hosting-pull-request.yml</a></b></td>
-						<td><code>❯ REPLACE-ME</code></td>
-					</tr>
-					</table>
-				</blockquote>
-			</details>
 		</blockquote>
 	</details>
-	<details> <!-- src Submodule -->
-		<summary><b>src</b></summary>
-		<blockquote>
-			<table>
-			<tr>
-				<td><b><a href='https://github.com/vishalranaut/blitzball-arena/blob/master/src/main.tsx'>main.tsx</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
-			</tr>
-			<tr>
-				<td><b><a href='https://github.com/vishalranaut/blitzball-arena/blob/master/src/index.css'>index.css</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
-			</tr>
-			<tr>
-				<td><b><a href='https://github.com/vishalranaut/blitzball-arena/blob/master/src/App.tsx'>App.tsx</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
-			</tr>
-			<tr>
-				<td><b><a href='https://github.com/vishalranaut/blitzball-arena/blob/master/src/vite-env.d.ts'>vite-env.d.ts</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
-			</tr>
-			</table>
-			<details>
-				<summary><b>components</b></summary>
-				<blockquote>
-					<table>
-					<tr>
-						<td><b><a href='https://github.com/vishalranaut/blitzball-arena/blob/master/src/components/Game.tsx'>Game.tsx</a></b></td>
-						<td><code>❯ REPLACE-ME</code></td>
-					</tr>
-					</table>
-				</blockquote>
-			</details>
-		</blockquote>
-	</details>
-</details>
 
 ---
 ##  Getting Started
