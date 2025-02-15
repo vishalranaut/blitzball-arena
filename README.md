@@ -3,9 +3,6 @@
 </p>
 <p align="center"><h1 align="center">BLITZBALL-ARENA</h1></p>
 <p align="center">
-	<em><code>❯ REPLACE-ME</code></em>
-</p>
-<p align="center">
 	<img src="https://img.shields.io/github/license/vishalranaut/blitzball-arena?style=flat&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
 	<img src="https://img.shields.io/github/last-commit/vishalranaut/blitzball-arena?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
 	<img src="https://img.shields.io/github/languages/top/vishalranaut/blitzball-arena?style=flat&color=0080ff" alt="repo-top-language">
@@ -43,19 +40,6 @@
 - [ License](#-license)
 - [ Acknowledgments](#-acknowledgments)
 
----
-
-##  Overview
-
-<code>❯ REPLACE-ME</code>
-
----
-
-##  Features
-
-<code>❯ REPLACE-ME</code>
-
----
 
 ##  Project Structure
 
